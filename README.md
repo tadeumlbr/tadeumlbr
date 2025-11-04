@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Tadeu Mendes de Araújo Lima, tenho 41 anos e sou natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonado por tecnologia desde da minha adolescência.
+Me chamo Tadeu Mendes de Araújo Lima, tenho 41 anos e sou natural do Ceará. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Sou apaixonado por tecnologia desde da minha adolescência, estou em transição de carreira.
 <p align="left">
    <a href="https://github.com/tadeumlbr?tab=repositories&sort=stargazers">
         <img 
